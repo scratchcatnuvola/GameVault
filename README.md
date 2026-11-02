@@ -8,7 +8,7 @@
 
 # 🎮 Game Vault — Community Hub
 
-The official place to talk with the Game Vault project: report bugs, request games, propose features and open pull requests.
+The official place to talk with the Game Vault project: report bugs, propose features and open pull requests.
 
 Game Vault is a community-built video game catalog: complete game pages, reviews, assets, personal libraries, achievements and more. The website is a closed-source project maintained by its team; this repository hosts only the community side of it.
 
@@ -17,10 +17,6 @@ Game Vault is a community-built video game catalog: complete game pages, reviews
 1. Open an **Issue** with the title `[Bug] short description`
 2. Describe: what happened, what you expected, the page, your browser and whether you were logged in
 3. A screenshot helps a lot
-
-## 🎮 Request a game
-
-Open an **Issue** with the title `[Game] Name of the game`. Note: many requests can also be submitted directly from the website with the "Request a game" page.
 
 ## 💡 Propose a feature
 
